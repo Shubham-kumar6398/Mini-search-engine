@@ -1,7 +1,6 @@
 # Mini-search-engine
 
 # Data Structures used:-
-
 1. Vector
 2. Array/string 
 3. Unordered_map
